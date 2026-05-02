@@ -95,6 +95,23 @@ Restart Claude Desktop after editing the config. A 🔨 hammer icon in the chat 
 
 ---
 
+## 🤖 How to Use in Claude
+
+Once configured, just describe what you want in plain English. Claude picks the right tools, chains them automatically, and reports back with a summary.
+
+**1. Type a prompt — Claude identifies the files and plans the job**
+
+![Claude identifying JPEG files and planning compression](/1.png)
+
+**2. Claude executes the batch and returns a full summary**
+
+![Claude compression results showing 7 files, 4.4 MB → 657 KB, ~85% savings](/2.png)
+
+> In this example, a single prompt converted 7 JPEGs to WebP at quality 80,  
+> reducing total size from **4.4 MB to 657 KB** — an **85% reduction**.
+
+---
+
 ## 🧰 Tools
 
 ### File & Folder
